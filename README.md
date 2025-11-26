@@ -34,7 +34,7 @@ deeply interested in **AI / Machine Learning / Deep Learning** and **data-driven
 ## 📫 Contact
 
 - 📧 Email: **incheol1085@gmail.com**
-- 📝 노션 포트폴리오: [Incheol – Portfolio & CV](https://amused-freesia-810.notion.site/Incheol-2aa9ec5539fb80f599ebce2d58ae2eff?pvs=74)
-- ✍️ 기술 블로그(Tistory): [Incheol Coding Blog](https://incheolcoding.tistory.com/)
+- 📝 Notion Portfolio & CV: [Portfolio & CV](https://amused-freesia-810.notion.site/Incheol-2aa9ec5539fb80f599ebce2d58ae2eff?pvs=74)
+- ✍️ Blog(Tistory): [Incheol Coding Blog](https://incheolcoding.tistory.com/)
 
 ---
