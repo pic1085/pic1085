@@ -1,52 +1,40 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Incheol+Park💻🖱️&fontAlign=60)
+## 👋 Hi there, I'm Incheol Park
 
+I'm an undergraduate student majoring in **Computer Engineering (Big Data)** at **Sunmoon University**,  
+deeply interested in **AI / Machine Learning / Deep Learning** and **data-driven problem solving**.
 
-<div align="center">
+- 🎓 Expected early graduation: **Aug 2026**
+- 🧠 Main interests: **Natural Language Processing, Data Mining, Machine Learning, Deep Learning, Data Analysis**
+- 🔍 Currently focusing on: **lightweight CNN models** and **efficient training with limited data**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+Incheol_Park&font=Redressed&size=40)](https://git.io/typing-svg)
+---
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=incheol2250)](https://solved.ac/incheol2250/)
+## 🚀 What I’ve worked on
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="flex: 1; text-align: center;">
-    <a href="pic1085">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=donut&theme=dracula" style="max-width: 100%; width: 300px;" />
-      <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" style="max-width: 100%; width: 300px;" />
-    </a>
-  </div>
-</div>
+🛣 Road Damage Detection
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+📄 File Fragment Classification
 
-<div align="left">
-
-  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=8)](https://github.com/pic1085/)
+😴 Driver Drowsiness Detection
 
 
 ---
 
+## 🛠 Tech Stack
 
-<br />
+**Languages**
+- Python, C, Java, JavaScript
 
-<details open>
-   
-  <summary>🚀 스택</summary>
- 
-**사용 언어**
+**AI / ML**
+- PyTorch, TensorFlow/Keras, scikit-learn
+- Computer Vision (OpenCV, YOLO family, ViT/Swin Transformer)
 
-<code><img alt="Python" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> python</code>
-<code><img alt="C" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> C</code>
-<code><img alt="Java" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> java</code>
-<code><img alt="JavaScript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> javascript</code>
-<code><img alt="React Native" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> react native</code>
+---
 
-**사용 에디터**
+## 📫 Contact
 
-<code><img alt="VS Code" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VS Code</code>
-<code><img alt="Visual Studio" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> Visual Studio</code>
-<code><img alt="IntelliJ" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"> IntelliJ</code>
+- 📧 Email: **incheol1085@gmail.com**
+- 📝 노션 포트폴리오: [Incheol – Portfolio & CV](https://amused-freesia-810.notion.site/Incheol-2aa9ec5539fb80f599ebce2d58ae2eff?pvs=74)
+- ✍️ 기술 블로그(Tistory): [Incheol Coding Blog](https://incheolcoding.tistory.com/)
 
-</details>
-<br />
+---
